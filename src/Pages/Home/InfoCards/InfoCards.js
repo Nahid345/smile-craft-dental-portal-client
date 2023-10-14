@@ -19,7 +19,7 @@ const InfoCards = () => {
             name:'Vist Our Location',
             description: '9A Dhanmondhi, Dhaka',
             icon: marker,
-            bgClass: 'bg-accent'
+            bgClass:'bg-gradient-to-r from-primary to-secondary'
         },
         {
             id:3,
