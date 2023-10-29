@@ -12,7 +12,7 @@ const Footer = () => {
         }}
         
         className=" p-10 ">
-            <div className='footer'>
+            <div className='footer lg:ms-32 sm:ms-0'>
                 <div>
                     <header className="footer-title">Services</header>
                     <Link to='/' className="link link-hover">Branding</Link>
